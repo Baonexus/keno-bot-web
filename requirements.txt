@@ -1,1 +1,2 @@
-python app.py
+python-telegram-bot==20.8
+flask
